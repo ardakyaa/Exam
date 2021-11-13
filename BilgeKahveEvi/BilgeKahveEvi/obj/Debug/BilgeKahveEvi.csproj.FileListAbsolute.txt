@@ -1,0 +1,10 @@
+C:\MyWorkSpaces\BilgeKahveEvi\BilgeKahveEvi\bin\Debug\BilgeKahveEvi.exe.config
+C:\MyWorkSpaces\BilgeKahveEvi\BilgeKahveEvi\bin\Debug\BilgeKahveEvi.exe
+C:\MyWorkSpaces\BilgeKahveEvi\BilgeKahveEvi\bin\Debug\BilgeKahveEvi.pdb
+C:\MyWorkSpaces\BilgeKahveEvi\BilgeKahveEvi\obj\Debug\BilgeKahveEvi.csproj.AssemblyReference.cache
+C:\MyWorkSpaces\BilgeKahveEvi\BilgeKahveEvi\obj\Debug\BilgeKahveEvi.Form1.resources
+C:\MyWorkSpaces\BilgeKahveEvi\BilgeKahveEvi\obj\Debug\BilgeKahveEvi.Properties.Resources.resources
+C:\MyWorkSpaces\BilgeKahveEvi\BilgeKahveEvi\obj\Debug\BilgeKahveEvi.csproj.GenerateResource.cache
+C:\MyWorkSpaces\BilgeKahveEvi\BilgeKahveEvi\obj\Debug\BilgeKahveEvi.csproj.CoreCompileInputs.cache
+C:\MyWorkSpaces\BilgeKahveEvi\BilgeKahveEvi\obj\Debug\BilgeKahveEvi.exe
+C:\MyWorkSpaces\BilgeKahveEvi\BilgeKahveEvi\obj\Debug\BilgeKahveEvi.pdb
